@@ -4,7 +4,7 @@
 |---|---|
 | **Student Name** | Abisheak S |
 | **Student ID** | IT21244384 |
-| **Environment** | Swift toolchain for Windows, run with `swift <file>.swift` |
+| **Environment** | Swift toolchain for Windows, compiled with `swiftc <file>.swift -o build/<file>.exe` and run from PowerShell |
 
 ## Files
 
